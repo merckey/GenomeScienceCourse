@@ -1,3 +1,15 @@
+# Temp files
+*.DS_Store
+.vscode/
+
+# R History files
+.Rhistory
+.Rapp.history
+
+# R Session Data files
+.RData
+.Ruserdata
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
